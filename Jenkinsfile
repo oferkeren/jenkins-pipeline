@@ -1,8 +1,8 @@
 def CONTAINER_NAME="jenkins-pipeline"
 def CONTAINER_TAG="latest"
-def DOCKER_HUB_USER="oferkeren@gmail.com"
-def USERNAME="oferkeren@gmail.com"
-def PASSWORD="0545821179"
+def DOCKER_HUB_USER="simpoleid"
+//def USERNAME="oferkeren@gmail.com"
+//def PASSWORD="0545821179"
 
 def HTTP_PORT="8090"
 
